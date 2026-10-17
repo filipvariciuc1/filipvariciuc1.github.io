@@ -1,0 +1,2 @@
+# Tesla fetches the key byte for byte; keep it LF even when committed from Windows.
+*.pem text eol=lf
